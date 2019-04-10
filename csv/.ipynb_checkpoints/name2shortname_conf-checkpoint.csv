@@ -1,0 +1,50 @@
+,name,shortname
+0,International Conference on Machine Learning (ICML),ICML
+1,AAAI Conference on Artificial Intelligence,AAAI
+2,International Joint Conference on Artificial Intelligence (IJCAI),IJCAI
+3,Conference on Learning Theory (COLT),COLT
+4,International Conference on Artificial Intelligence and Statistics,AIStats
+5,ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,KDD
+6,ACM International Conference on Web Search and Data Mining,WSDM
+7,ACM Conference on Recommender Systems,RecSys
+8,International Conference on Data Mining,ICDM
+9,IEEE International Conference on Big Data,IEEE Big Data
+10,SIAM International Conference on Data Mining (SDM),SDM
+11,European Conference on Machine Learning and Knowledge Discovery in Databases,ECML PKDD
+12,Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD),PAKDD
+13,International World Wide Web Conferences (WWW),WWW
+14,International Conference on Very Large Databases,VLDB
+15,ACM SIGMOD International Conference on Management of Data,SIGMOD
+16,International Conference on Web and Social Media (ICWSM),ICWSM
+17,International Conference on Data Engineering,ICDE
+18,ACM SIGIR Conference on Research and Development in Information Retrieval,SIGIR
+19,ACM International Conference on Information and Knowledge Management,CIKM
+20,International Conference on the Semantic Web,ISWC
+21,"IEEE Conference on Computer Vision and Pattern Recognition, CVPR",CVPR
+22,IEEE International Conference on Computer Vision,ICCV
+23,European Conference on Computer Vision,ECCV
+24,IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops,CVPRW
+25,British Machine Vision Conference (BMVC),BMVC
+26,IEEE International Conference on Image Processing (ICIP),ICIP
+27,IEEE International Conference on Automatic Face & Gesture Recognition,FG
+28,International Conference on Document Analysis and Recognition,ICDAR
+29,Conference on Empirical Methods in Natural Language Processing (EMNLP),EMNLP
+30,Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (HLT-NAACL),HLT-NAACL
+31,International Conference on Language Resources and Evaluation (LREC),LREC
+32,International Conference on Computational Linguistics (COLING),COLING
+33,Conference of the European Chapter of the Association for Computational Linguistics (EACL),EACL
+34,Conference on Computational Natural Language Learning (CoNLL),CoNLL
+35,International Conference on Computational Linguistics and Intelligent Text Processing,CICLing
+36,International Joint Conference on Natural Language Processing (IJCNLP),IJCNLP
+37,ACM International Conference on Multimedia,ACMMM
+38,ACM International Conference on Multimedia Retrieval,ICMR
+39,International Society for Music Information Retrieval Conference,ISMIR
+40,ACM Multimedia Systems Conference (MMSys),MMSys
+41,IEEE International Conference on Multimedia and Expo,ICME
+42,IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS),AVSS
+43,IEEE International Conference on Multimedia and Expo Workshops (ICMEW),ICMEW
+44,Conference on Multimedia Modeling,MMM
+45,"IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",ICASSP
+46,Conference of the International Speech Communication Association (INTERSPEECH),INTERSPEECH
+47,"IEEE Vehicular Technology Conference, VTC",VTC
+48,Meeting of the Association for Computational Linguistics (ACL),ACL

@@ -1,0 +1,51 @@
+name,shortname
+International Conference on Machine Learning (ICML),ICML
+AAAI Conference on Artificial Intelligence,AAAI
+International Joint Conference on Artificial Intelligence (IJCAI),IJCAI
+Conference on Learning Theory (COLT),COLT
+International Conference on Artificial Intelligence and Statistics,AIStats
+ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,KDD
+ACM International Conference on Web Search and Data Mining,WSDM
+ACM Conference on Recommender Systems,RecSys
+International Conference on Data Mining,ICDM
+IEEE International Conference on Big Data,IEEE Big Data
+SIAM International Conference on Data Mining (SDM),SDM
+European Conference on Machine Learning and Knowledge Discovery in Databases,ECML PKDD
+Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD),PAKDD
+International World Wide Web Conferences (WWW),WWW
+International Conference on Very Large Databases,VLDB
+ACM SIGMOD International Conference on Management of Data,SIGMOD
+International Conference on Web and Social Media (ICWSM),ICWSM
+International Conference on Data Engineering,ICDE
+ACM SIGIR Conference on Research and Development in Information Retrieval,SIGIR
+ACM International Conference on Information and Knowledge Management,CIKM
+International Conference on the Semantic Web,ISWC
+"IEEE Conference on Computer Vision and Pattern Recognition, CVPR",CVPR
+IEEE International Conference on Computer Vision,ICCV
+European Conference on Computer Vision,ECCV
+IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops,CVPRW
+British Machine Vision Conference (BMVC),BMVC
+IEEE International Conference on Image Processing (ICIP),ICIP
+IEEE International Conference on Automatic Face & Gesture Recognition,FG
+International Conference on Document Analysis and Recognition,ICDAR
+Conference on Empirical Methods in Natural Language Processing (EMNLP),EMNLP
+Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (HLT-NAACL),HLT-NAACL
+International Conference on Language Resources and Evaluation (LREC),LREC
+International Conference on Computational Linguistics (COLING),COLING
+Conference of the European Chapter of the Association for Computational Linguistics (EACL),EACL
+Conference on Computational Natural Language Learning (CoNLL),CoNLL
+International Conference on Computational Linguistics and Intelligent Text Processing,CICLing
+International Joint Conference on Natural Language Processing (IJCNLP),IJCNLP
+ACM International Conference on Multimedia,ACMMM
+ACM International Conference on Multimedia Retrieval,ICMR
+International Society for Music Information Retrieval Conference,ISMIR
+ACM Multimedia Systems Conference (MMSys),MMSys
+IEEE International Conference on Multimedia and Expo,ICME
+IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS),AVSS
+IEEE International Conference on Multimedia and Expo Workshops (ICMEW),ICMEW
+Conference on Multimedia Modeling,MMM
+"IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",ICASSP
+Conference of the International Speech Communication Association (INTERSPEECH),INTERSPEECH
+"IEEE Vehicular Technology Conference, VTC",VTC
+Meeting of the Association for Computational Linguistics (ACL),ACL
+Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL),SIGDIAL
